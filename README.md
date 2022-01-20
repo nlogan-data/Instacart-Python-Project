@@ -37,28 +37,34 @@ customers in their system and how their ordering behaviors differ.
 
 •	Scripts written in Jupyter Notebooks
 
-•	Data wrangling and subsetting
+•	Data wrangling 
 
 •	Data consistency checks
+
+•	Crosstabs
 
 •	Combining DataFrames
 
 •	Deriving new columns
 
-•	Grouping data and aggregating variables
+•	Subsetting, grouping data and aggregating variables
 
 • Bar charts, histograms, and line charts
 
 ![Tableau logo](https://user-images.githubusercontent.com/97688439/150032188-cac6c36a-b2f7-459e-9f85-ee757be5788b.png)
 
-**Tableau:** Visualization of Results
+**Tableau:** Further Visualization
 
-•	S
+•	Treemap
 
-•	S
+•	Bar chart compilation 
 
 ## Project Steps
+First, I imported the data into a Jupyter notebook as a pandas DataFrame. Then, I conducted exploratory analyses of the datasets. This helped me gain a better understanding of the data, which informed future steps in the analysis. After this step, and all others, I exported the dataframes to .pkl files. This formed a version history of the data as I made manipulations.
 
+Next, I carried out data wrangling steps, which included dropping irrelevant columns, renaming nondescript columns, and changing data types where necessary (e.g.: I changed user_id from integer to string). This streamlined the DataFrames and made the data more manageable.
+
+With the desired data at hand, I performed consistency checks. This included finding and addressing missing values, duplicates, and columns with mixed-type data. This step was necessary to ensure an accurate analysis moving forward. One difficulty I faced here occured when I had over 200,000 null values in the days_since_prior_order column. I noticed that the first few observations with the null values that I saw also had an 
 
 ## Conclusion
 
