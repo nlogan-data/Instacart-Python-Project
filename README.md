@@ -16,7 +16,7 @@ The raw data is too large for the repository. See the population flow [here](/02
 
 
 ## Objective
-For users who are not new to Instacart, I investigated the following:
+Regarding users who are not new to Instacart, I investigated the following:
 
 •	The sales team needs to know the days and times with the most orders.
 
