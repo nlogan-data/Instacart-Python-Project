@@ -62,7 +62,7 @@ customers in their system and how their ordering behaviors differ.
 •	Bar chart compilation 
 
 ## Project Steps
-Note that my [scripts folder](03%20Scripts/) contains scripts with numeric prefixes ranging from 4.2 to 4.10. This corresponds to order of the exercises and tasks I completed to learn skills and work on the project. Below, I only detail the script writing that is pertinent to the project--skill building aside.
+Note that my [scripts folder](https://github.com/nlogan-data/Instacart-Python-Project/tree/main/03%20Scripts) contains scripts with numeric prefixes ranging from 4.2 to 4.10. This corresponds to order of the exercises and tasks I completed to learn skills and work on the project. Below, I only detail the script writing that is pertinent to the project--skill building aside.
 
 First, I imported the data into a Jupyter notebook as a pandas DataFrame. Then, I conducted exploratory analyses of the datasets. This helped me gain a better understanding of the data, which informed future steps in the analysis. After this step, and all others, I exported the dataframes to .pkl files. This formed a version history of the data as I made manipulations.
 
