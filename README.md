@@ -84,7 +84,7 @@ Once I had the user profiles, it was time to leverage visualization tools to com
 
 ![Tree map](04%20Analysis/Visualizations/profile_valuecount.png)
 
-Finally, I rounded out the project with my [Excel report](05%20Sent%20to%20Client/Logan-final-report.xlsx), which contains the population flow of the data,  my wrangling steps and consistency checks, details on each derived column, all of my visualizations, and my final recommendations. This was the final derivable to Instacart.
+Finally, I rounded out the project with my [Excel report (download)](05%20Sent%20to%20Client/Logan-final-report.xlsx), which contains the population flow of the data,  my wrangling steps and consistency checks, details on each derived column, all of my visualizations, and my final recommendations. This was the final derivable to Instacart.
 
 ## Conclusion
 
