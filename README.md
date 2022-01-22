@@ -1,7 +1,7 @@
 # Instacart Data Analysis Case Study
 The following project is an assignment from CareerFoundry's Data Analytics course. I completed the project independently. Open-source data sets from Instacart provide the order and product data. The customer data are fabricated.
 
-![Instacart logo](/Instacart-Python-Project/01%20Project%20MGMT/logo.png)
+![Instacart logo](01%20Project%20MGMT/logo.png)
 
 ## Overview and Purpose
 Instacart is interesting in discovering more about their sales patterns. I perform analyses to inform strategy suggestions for better segmentation based on provided criteria.
@@ -12,7 +12,7 @@ The end goal for Instacart is a targeted marketing strategy. They need someone a
 See the orders and products data dictionaries [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b). 
 This data dictionary does not belong to me, and was provided to me by CareerFoundry.
 
-The raw data is too large for the repository. See the population flow [here](/Instacart-Python-Project/02%20Data/population-flow.pdf).
+The raw data is too large for the repository. See the population flow [here](02%20Data/population-flow.pdf).
 
 
 ## Objective
