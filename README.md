@@ -1,5 +1,5 @@
 # Instacart Data Analysis Case Study
-The following project is an assignment from CareerFoundry's Data Analytics course. I completed the project independently. Open-source data sets from Instacart provide the order and product data. The customer data are fictional.
+The following project is an assignment from CareerFoundry's Data Analytics course. I completed the project independently. Open-source data sets from Instacart provide the order and product data. The customer data are fabricated.
 
 ![Instacart logo](/01%20Project%20MGMT/logo.png)
 
@@ -84,7 +84,12 @@ Once I had the user profiles, it was time to leverage visualization tools to com
 
 ![Tree map](/04%20Analysis/Visualizations/profile_valuecount.png)
 
-Finally, I rounded out the project with my [Excel report](/05%20Sent%20to%20Client/Logan-final-report.xlsx).
+Finally, I rounded out the project with my [Excel report](/05%20Sent%20to%20Client/Logan-final-report.xlsx), which contains the population flow of the data,  my wrangling steps and consistency checks, details on each derived column, all of my visualizations, and my final recommendations. This was the final derivable to Instacart.
 
 ## Conclusion
 
+I was able make recommendations to Instacart's sales and marketing teams, backed by visualizations that I made during my analysis. 
+
+The most challenging aspect of the project was profiling the users, especially their shopping habits. With 24 (4 'income' by 3 'age' by 2 'dependents') profile combinations _before_ including shopping habits, I attempted to limit the amount of possibilities for that column. However, with 6 shopping habit categories, I ended up with 134 profile combinations.
+
+In hindsight, I should have kept it to the 24 profile combinations, keeping the shopping habits separate from the profiles. Then, I would have made a shopping habits column with each user's most shopped department (of the 21 departments). Next, I would have used a crosstab to analyze the user profile's shopping habits, finding the top three departments for each of the 24 user profiles. This would have been more useful than my finding the top profiles, including shopping habits, by user count.
