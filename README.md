@@ -1,5 +1,5 @@
 # Instacart Data Analysis Case Study
-The following project is an assignment from CareerFoundry's Data Analytics course. I completed the project independently. Open-source data sets from Instacart provide the order and product data. The customer data are fabricated.
+The following project is an assignment from CareerFoundry's Data Analytics course. I completed the project independently. Open-source data sets from Instacart provide the order and product data. The customer data are fabricated. See the full GitHub repository [here](https://github.com/nlogan-data/Instacart-Python-Project).
 
 ![Instacart logo](01%20Project%20MGMT/logo.png)
 
